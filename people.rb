@@ -3,3 +3,11 @@
 class Person
 
 end
+
+class	Student
+
+end
+
+class	Instructor
+
+end
