@@ -27,3 +27,8 @@ chris.hi
 
 christina = Student.new("Christina")
 christina.hi
+
+chris.teach
+christina.learn
+# christina.teach  # this causes an error because christina is a student
+# and does not have access to the teach method (not an Instructor)
